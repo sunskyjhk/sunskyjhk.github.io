@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Getting Started with Go"
+title: "Getting Started with Go"
 author: Sun
 categories: [ Jekyll ]
 image: assets/images/11.jpg
