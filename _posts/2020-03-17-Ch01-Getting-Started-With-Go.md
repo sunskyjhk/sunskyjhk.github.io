@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Go로 시작하"
+title: "Go로 시작하기"
 author: Sun
-categories: [Go, Tutorial]
+categories: [Go, Tutorial, Beginner]
 image: assets/images/golang.svg
 featured: true
 hidden: false
@@ -19,7 +19,7 @@ hidden: false
         <a href="#getting-started">시작하기</a>
       </li>
       <li>
-        <a href="#conclusion">결과</a>
+        <a href="#conclusion">결</a>
       </li>
     </ul>
   </nav>
@@ -30,7 +30,7 @@ command-line 인터페이스에서 분산형 마이크로시스템 및 클라우
 단순성과 동시성을 통해 많은 개발팀에서 강력하게 선택하게 되는 언어입니다.
 
 이 튜토리얼을 통해서 언어를 익히고 실행하여 
-더욱 뛰어난 응용 프로그램을 구축하고 기술을 발전시키는데 도움이되길 바랍니다.
+더욱 뛰어난 응용 프로그램을 구축하고 기술을 발전시키는데 도움이 되길 바랍니다.
 
 먼저 정말 간단한 `Hello World` 스타일 응용 프로그램을 시작하고 실행하는데 중점을 두겠습니다. 
 
@@ -126,10 +126,10 @@ $ ./main
 
 <h3 id="conclusion">
   <a href="#conclusion"></a>
-  결과
+  결론
 </h3>
 
 이제 이 간단한 튜토리얼에서 Go개발 세계로의 여행을 성공적으로 시작했습니다.
 
-Go 기술을 향상시키는데 관심이 있으시면 Go에서 사용할 수있는 기본 유형에 대해 이 튜토리얼의 다음 포스트를 확인하십시오. 
-<a href="../../golang/go-basic-types-tutorial/">Go Basic Types Tutorial</a>   
+Go 기술을 향상시키는데 관심이 있으시면 Go에서 사용할 수있는 기본 유형에 대해 이 튜토리얼의 다음 포스트를 확인하세요 - 
+<a href="../Ch02-Go-Basic-Types-Tutorial/">Go 기본 타입 튜토리얼</a>   
