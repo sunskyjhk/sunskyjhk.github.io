@@ -3,10 +3,10 @@
   <channel>
     <title>Sun &amp; Sky Tech Blog</title>
     <description>programming, AI Research, Physics, Mathematics</description>
-    <link>http://localhost:4000/sunskyjhk.github.io/</link>
-    <atom:link href="http://localhost:4000/sunskyjhk.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Mar 2020 15:50:52 +0900</pubDate>
-    <lastBuildDate>Thu, 19 Mar 2020 15:50:52 +0900</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 19 Mar 2020 19:00:08 +0900</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2020 19:00:08 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -233,8 +233,8 @@
 &lt;p&gt;유용하거나 자세한 정보가 필요하면 아래의 댓글에 알려주세요!&lt;/p&gt;
 </description>
         <pubDate>Thu, 19 Mar 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/sunskyjhk.github.io/Ch03-Go-Composite-Types-Tutorial/</link>
-        <guid isPermaLink="true">http://localhost:4000/sunskyjhk.github.io/Ch03-Go-Composite-Types-Tutorial/</guid>
+        <link>http://localhost:4000/Ch03-Go-Composite-Types-Tutorial/</link>
+        <guid isPermaLink="true">http://localhost:4000/Ch03-Go-Composite-Types-Tutorial/</guid>
         
         
         <category>Go</category>
@@ -618,8 +618,8 @@
 추가 도움이 필요하거나 더 알고 싶다면 아래의 댓글란에 알려주세요!&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Mar 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/sunskyjhk.github.io/Ch02-Go-Basic-Types-Tutorial/</link>
-        <guid isPermaLink="true">http://localhost:4000/sunskyjhk.github.io/Ch02-Go-Basic-Types-Tutorial/</guid>
+        <link>http://localhost:4000/Ch02-Go-Basic-Types-Tutorial/</link>
+        <guid isPermaLink="true">http://localhost:4000/Ch02-Go-Basic-Types-Tutorial/</guid>
         
         
         <category>Go</category>
@@ -785,8 +785,8 @@ Hello World
 &lt;a href=&quot;../Ch02-Go-Basic-Types-Tutorial/&quot;&gt;Go 기본 타입 튜토리얼&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Mar 2020 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/sunskyjhk.github.io/Ch01-Getting-Started-With-Go/</link>
-        <guid isPermaLink="true">http://localhost:4000/sunskyjhk.github.io/Ch01-Getting-Started-With-Go/</guid>
+        <link>http://localhost:4000/Ch01-Getting-Started-With-Go/</link>
+        <guid isPermaLink="true">http://localhost:4000/Ch01-Getting-Started-With-Go/</guid>
         
         
         <category>Go</category>
