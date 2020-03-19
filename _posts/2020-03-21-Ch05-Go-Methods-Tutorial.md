@@ -2,7 +2,7 @@
 layout: post
 title: "Go 메서드 (Go Methods)"
 author: Sun
-date: 2020-03-18 05:00:01 -0900
+date: 2020-03-18 05:00:01 +0900
 categories: [Go, Tutorial, Beginner]
 image: assets/images/golang.svg
 featured: true
