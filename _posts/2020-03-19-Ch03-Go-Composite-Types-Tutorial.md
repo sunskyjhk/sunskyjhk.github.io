@@ -6,6 +6,8 @@ categories: [Go, Tutorial, Beginner]
 image: assets/images/golang.svg
 featured: true
 hidden: false
+excerpt: "이번 포스팅에서는 Go 프로그래밍 언어로 제공되는 다양한 
+복합 데이터 타입 (Composite Data Type)을 살펴 보겠습니다." 
 ---
 <div class="toc">
   <h4>Table Of Contents</h4>

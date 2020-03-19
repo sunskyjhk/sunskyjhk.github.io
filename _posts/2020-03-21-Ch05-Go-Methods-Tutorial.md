@@ -7,7 +7,11 @@ categories: [Go, Tutorial, Beginner]
 image: assets/images/golang.svg
 featured: true
 hidden: false
+excerpt: "이 포스팅에서는 우선 메서드가 무엇인지와 Go 프로그래밍 언어의 범위 내에서 그것이
+어떻게 작동하는지 살펴 보겠습니다. 그런 다음 메서드과 함수의 차이점과 Go 프로그램 내에서 
+이상적으로 사용해야하는 시점을 설명합니다." 
 ---
+
 <div class="toc">
   <h4>Table Of Contents</h4>
   <nav id="TableOfContents">

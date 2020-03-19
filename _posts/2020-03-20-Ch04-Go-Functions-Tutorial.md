@@ -7,6 +7,8 @@ categories: [Go, Tutorial, Beginner]
 image: assets/images/golang.svg
 featured: true
 hidden: false
+excerpt: "이 포스팅을 다 읽을 무렵, 함수가 무엇인지, 
+자신의 프로젝트에서 어떻게 사용할 수 있는지에 대해 확실히 이해하게 되길 바랍니다."
 ---
 <div class="toc">
   <h4>Table Of Contents</h4>

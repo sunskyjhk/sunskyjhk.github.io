@@ -6,6 +6,9 @@ categories: [Go, Tutorial, Beginner]
 image: assets/images/golang.svg
 featured: true
 hidden: false
+excerpt: "이번 포스팅에서는 Go 언어에서 사용할 수 있는 모든 기본 데이터 타입을 살펴 보겠습니다. 
+이 튜토리얼이 끝나면 언어 내에서 사용 가능한 다양한 데이터 타입에 익숙해질 것이며 자신의 Go 프로그램에서 
+이러한 타입을 사용하는 방법에 대한 이해가 완료될 것입니다." 
 ---
 <div class="toc">
   <h4>Table Of Contents</h4>
