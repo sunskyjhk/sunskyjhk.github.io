@@ -5,8 +5,8 @@
     <description>programming, AI Research, Physics, Mathematics</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Mar 2020 19:00:08 +0900</pubDate>
-    <lastBuildDate>Thu, 19 Mar 2020 19:00:08 +0900</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2020 20:28:03 +0900</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2020 20:28:03 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -235,6 +235,48 @@
         <pubDate>Thu, 19 Mar 2020 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/Ch03-Go-Composite-Types-Tutorial/</link>
         <guid isPermaLink="true">http://localhost:4000/Ch03-Go-Composite-Types-Tutorial/</guid>
+        
+        
+        <category>Go</category>
+        
+        <category>Tutorial</category>
+        
+        <category>Beginner</category>
+        
+      </item>
+    
+      <item>
+        <title>Go 인터페이스 (Interfaces)</title>
+        <description>&lt;div class=&quot;toc&quot;&gt;
+  &lt;h4&gt;Table Of Contents&lt;/h4&gt;
+  &lt;nav id=&quot;TableOfContents&quot;&gt;
+    &lt;ul&gt;
+      &lt;li&gt;
+        &lt;a href=&quot;#basicExample&quot;&gt;기본 예제&lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;a href=&quot;#whyIsThisUseful&quot;&gt;왜 유용한가?&lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;a href=&quot;#definingInterfaces&quot;&gt;인터페이스 정의하기&lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;a href=&quot;#returnValues&quot;&gt;값 반환하기&lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;a href=&quot;#satisfyingInterfaces&quot;&gt;인터페이스 만족하기&lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;a href=&quot;#conclusion&quot;&gt;결론&lt;/a&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/nav&gt;
+&lt;/div&gt;
+
+</description>
+        <pubDate>Wed, 18 Mar 2020 14:00:01 +0900</pubDate>
+        <link>http://localhost:4000/Ch06-Go-Interfaces-Tutorial/</link>
+        <guid isPermaLink="true">http://localhost:4000/Ch06-Go-Interfaces-Tutorial/</guid>
         
         
         <category>Go</category>
