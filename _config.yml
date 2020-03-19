@@ -4,6 +4,7 @@ title: "Sun & Sky Tech Blog"
 description: "programming, AI Research, Physics, Mathematics"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
+url: "https://sunskyjhk.hithub.io"
 baseurl:
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -69,4 +70,4 @@ adsense-data-ad-slot: "1363087678"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+#exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
