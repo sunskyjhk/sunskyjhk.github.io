@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go 함수"
+title: "Go 함수 (Go Functions)"
 author: Sun
 categories: [Go, Tutorial, Beginner]
 image: assets/images/golang.svg

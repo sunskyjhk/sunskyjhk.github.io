@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go 메서드"
+title: "Go 메서드 (Go Methods)"
 author: Sun
 categories: [Go, Tutorial, Beginner]
 image: assets/images/golang.svg
