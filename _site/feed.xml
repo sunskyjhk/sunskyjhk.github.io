@@ -5,8 +5,8 @@
     <description>programming, AI Research, Physics, Mathematics</description>
     <link>http://localhost:4000/sunskyjhk.github.io/</link>
     <atom:link href="http://localhost:4000/sunskyjhk.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 19 Mar 2020 15:18:04 +0900</pubDate>
-    <lastBuildDate>Thu, 19 Mar 2020 15:18:04 +0900</lastBuildDate>
+    <pubDate>Thu, 19 Mar 2020 15:49:30 +0900</pubDate>
+    <lastBuildDate>Thu, 19 Mar 2020 15:49:30 +0900</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -235,65 +235,6 @@
         <pubDate>Thu, 19 Mar 2020 00:00:00 +0900</pubDate>
         <link>http://localhost:4000/sunskyjhk.github.io/Ch03-Go-Composite-Types-Tutorial/</link>
         <guid isPermaLink="true">http://localhost:4000/sunskyjhk.github.io/Ch03-Go-Composite-Types-Tutorial/</guid>
-        
-        
-        <category>Go</category>
-        
-        <category>Tutorial</category>
-        
-        <category>Beginner</category>
-        
-      </item>
-    
-      <item>
-        <title>Go 메서드 (Go Methods)</title>
-        <description>&lt;div class=&quot;toc&quot;&gt;
-  &lt;h4&gt;Table Of Contents&lt;/h4&gt;
-  &lt;nav id=&quot;TableOfContents&quot;&gt;
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;a href=&quot;#aSimpleExample&quot;&gt;간단한 예제&lt;/a&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;a href=&quot;#functionsVsMethods&quot;&gt;함수 VS 메서드&lt;/a&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;a href=&quot;#conclusion&quot;&gt;결론&lt;/a&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/nav&gt;
-&lt;/div&gt;
-
-&lt;p&gt;이 포스팅에서는 우선 메서드가 무엇인지와 Go 프로그래밍 언어의 범위 내에서 그것이
-어떻게 작동하는지 살펴 보겠습니다. 그런 다음 메서드과 함수의 차이점과 Go 프로그램 내에서 
-이상적으로 사용해야하는 시점을 설명합니다.&lt;/p&gt;
-
-&lt;h3 id=&quot;aSimpleExample&quot;&gt;
-  &lt;a href=&quot;#aSimpleExample&quot;&gt;&lt;/a&gt;
-  간단한 예제
-&lt;/h3&gt;
-
-&lt;p&gt;Go 시스템에서 스스로 어떤 메서드를 어떻게 구현할 수 있는지를 다루면서 시작하겠습니다. 
-직원 이름을 업데이트하고 그 이름을 인쇄할 수 있는 매우 간단한 직원 관리 시스템을 만들 것입니다. 
-아주 흥미로운 예제 프로젝트는 아니지만 데모의 목적으로 사용됩니다.&lt;/p&gt;
-
-&lt;p&gt;먼저 이름이 하나인 문자열 필드를 특징으로하는 Employee 타입의 구조체를 만듭니다.&lt;/p&gt;
-
-&lt;p&gt;다음으로 우리가 만든 직원의 이름을 업데이트하고 인쇄할 수 있는 &lt;code class=&quot;highlighter-rouge&quot;&gt;UpdateName()&lt;/code&gt; 및 
-&lt;code class=&quot;highlighter-rouge&quot;&gt;PrintName()&lt;/code&gt; 메서드를 선언합니다.&lt;/p&gt;
-
-&lt;h3 id=&quot;functionsVsMethods&quot;&gt;
-  &lt;a href=&quot;#functionsVsMethods&quot;&gt;&lt;/a&gt;
-  함수 VS 메소드
-&lt;/h3&gt;
-&lt;h3 id=&quot;conclusion&quot;&gt;
-  &lt;a href=&quot;#conclusion&quot;&gt;&lt;/a&gt;
-  결론
-&lt;/h3&gt;
-</description>
-        <pubDate>Wed, 18 Mar 2020 05:00:01 +0900</pubDate>
-        <link>http://localhost:4000/sunskyjhk.github.io/Ch05-Go-Methods-Tutorial/</link>
-        <guid isPermaLink="true">http://localhost:4000/sunskyjhk.github.io/Ch05-Go-Methods-Tutorial/</guid>
         
         
         <category>Go</category>
