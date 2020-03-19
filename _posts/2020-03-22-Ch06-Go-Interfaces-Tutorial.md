@@ -2,7 +2,7 @@
 layout: post
 title: "Go 인터페이스 (Interfaces)"
 author: Sun
-date: 2020-03-18 05:00:01
+date: 2020-03-22 05:00:01
 categories: [Go, Tutorial, Beginner]
 image: assets/images/golang.svg
 featured: true
