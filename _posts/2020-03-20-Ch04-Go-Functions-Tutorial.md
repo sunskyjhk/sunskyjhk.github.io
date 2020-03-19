@@ -2,7 +2,7 @@
 layout: post
 title: "Go 함수 (Go Functions)"
 author: Sun
-date: 2020-03-20 05:00:01 +0900
+date: 2020-03-20 05:00:01
 categories: [Go, Tutorial, Beginner]
 image: assets/images/golang.svg
 featured: true
