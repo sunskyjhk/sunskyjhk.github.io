@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Go 기본 타입"
+title: "Go 복합 데이터 타입 (Go Composite Types)"
 author: Sun
 categories: [Go, Tutorial, Beginner]
 image: assets/images/golang.svg
