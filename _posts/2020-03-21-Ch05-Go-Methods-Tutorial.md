@@ -6,7 +6,7 @@ date: 2020-03-18 05:00:01 -0900
 categories: [Go, Tutorial, Beginner]
 image: assets/images/golang.svg
 featured: true
-hidden: false
+hidden: true
 ---
 <div class="toc">
   <h4>Table Of Contents</h4>
