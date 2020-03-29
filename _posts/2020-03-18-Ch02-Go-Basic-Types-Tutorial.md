@@ -148,7 +148,6 @@ func main() {
 
 간단하게 하기 위해 이 데이터 타입을 기본 값으로 사용하는 것이 가장 편하며 이 타입이 가장 널리 사용되는 것을 볼 수 있습니다.
 
-        <a href="#conversionOfTypes">타입 변환하기</a>
 <h3 id="conversionOfTypes">
   <a href="#conversionOfTypes"></a>
   타입 변환하기
@@ -189,11 +188,11 @@ var f2 float64
 
 ```go
 var maxFloat32 float32
-maxFloat32 = 16777216
+maxFloat32 = 1688777216
 fmt.Println(maxFloat32 == maxFloat32+10) // you would typically expect this to return false
 // it returns true
-fmt.Println(maxFloat32+10) // 16777216
-fmt.Println(maxFloat32+2000000) // 16777216
+fmt.Println(maxFloat32 + 10)      // 1.6887772e+09
+fmt.Println(maxFloat32 + 2000000) // 1.6907772e+09
 ```
 
 <h3 id="convertingFloat2int">

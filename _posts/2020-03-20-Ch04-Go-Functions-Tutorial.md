@@ -225,7 +225,7 @@ $ git clone https://github.com/TutorialEdge/go-functions-tutorial.git
 $ git checkout challenge-01
 ```
 
-> **Challenge-01**-자신 만의 Add 함 정의하기
+> **Challenge-01**-자신 만의 Add 함수 정의하기
 
 이 문제의 목표는 `parameter-list`에서 2개의 `int` 매개 변수를 가져오고 두 값의 합과 동일한 
 단일 int 값을 리턴하는 main.go 파일 내에 Add 함수를 정의하는 것입니다.
